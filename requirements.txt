@@ -1,6 +1,6 @@
-ultralytics==8.3.159
-opencv-python-headless==4.11.0.86
-numpy==2.3.1
-gradio==5.34.2
-torch==2.7.1
+ultralytics
+opencv-python
+numpy
+gradio
+torch
 moviepy==1.0.3

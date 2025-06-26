@@ -9,7 +9,7 @@ import gradio as gr
 from moviepy.editor import ImageSequenceClip
 
 
-model = YOLO("yolo12n.pt")
+model = YOLO("best.pt")
 names = model.names
 files = []
 

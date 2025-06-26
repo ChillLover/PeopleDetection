@@ -1,3 +1,7 @@
 .conda
 people_detection.ipynb
 test.py
+datasets
+dataset.yaml
+runs
+yolo12n.pt

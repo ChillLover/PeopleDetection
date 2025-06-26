@@ -10,7 +10,7 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY yolo12n.pt .
+COPY best.pt .
 
 COPY all.py .
 
