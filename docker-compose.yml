@@ -1,0 +1,7 @@
+services:
+
+  all:
+    build:
+      context: .
+    ports:
+      - "7860:7860"

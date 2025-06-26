@@ -1,0 +1,6 @@
+.conda
+people_detection.ipynb
+test.py
+yolo12l.pt
+yolo12m.pt
+data
