@@ -82,7 +82,7 @@ with gr.Blocks() as demo:
                 minimum=0.0,
                 maximum=1.0,
                 step=0.05,
-                value=0.45,
+                value=0.6,
             )
             process_button = gr.Button("Обработать видео")
 

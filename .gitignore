@@ -5,3 +5,4 @@ datasets
 dataset.yaml
 runs
 yolo12n.pt
+yolo11n.pt
