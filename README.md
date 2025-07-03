@@ -11,7 +11,7 @@
 train.py - дообучение модели.
 
 Установка и запуск:
-1. Копирование репозитория: git clone https://gitlab.com/ml-python3/peopledetection
+1. Копирование репозитория: git clone https://github.com/ChillLover/PeopleDetection
 2. В IDE переходим в скопированный репозиторий: cd peopledetection
 3. Поднимаем контейнеризированное приложение: docker-compose up
 4. Переходим по адресу: http://localhost:7860/
